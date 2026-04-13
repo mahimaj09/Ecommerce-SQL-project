@@ -42,3 +42,8 @@ The project consists of the following tables:
 ## 📌 Conclusion
 
 This project showcases how SQL can be used to efficiently manage and analyze an E-commerce system with real-world business insights.
+
+## 📸 Project Screenshots
+
+![Customers Table](CUSTOMERS.png)
+![Top Customers](TOP_5_CUSTOMERS.png)
