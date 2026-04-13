@@ -1,4 +1,4 @@
-# Ecommerce-SQL-project
+<img width="1366" height="766" alt="image" src="https://github.com/user-attachments/assets/e0bb489c-9aaf-446a-a9d9-c43123d7353c" /># Ecommerce-SQL-project
 
 ## 📌 Project Overview
 
